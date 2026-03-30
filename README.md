@@ -38,17 +38,6 @@ src/
     └── service/       # Unit tests for all services
 ```
 
-## How to Run
-
-1. Clone the repository
-2. Open the project in IntelliJ IDEA
-3. Run the `main` function in `Main.kt`
-
-Or run the built distribution:
-1. Build the project with `./gradlew distZip`
-2. Extract the ZIP file
-3. Run the executable inside the `bin/` folder
-
 ## Game Modes
 
 | Mode | Board Size | Players |
